@@ -1,0 +1,9 @@
+body{
+background-image: url("/images/glow.png");
+background-size: 1540px;
+}
+.left{
+transform: scale(0.6);
+margin-top: 760px;
+margin-left: -340px;
+}
